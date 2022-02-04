@@ -1,0 +1,20 @@
+{
+  "name": "fullpage-scroll",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.2.1"
+  },
+  "dependencies": {
+    "smooth-scrollbar": "^8.7.4",
+    "swiper": "^8.0.3"
+  }
+}
